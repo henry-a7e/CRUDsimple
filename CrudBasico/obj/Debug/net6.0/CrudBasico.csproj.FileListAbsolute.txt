@@ -1,0 +1,540 @@
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\appsettings.Development.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\appsettings.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.exe
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.deps.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.runtimeconfig.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.pdb
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Humanizer.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.AssemblyReference.cache
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.GeneratedMSBuildEditorConfig.editorconfig
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.AssemblyInfoInputs.cache
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.AssemblyInfo.cs
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.CoreCompileInputs.cache
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.MvcApplicationPartsAssemblyInfo.cs
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.MvcApplicationPartsAssemblyInfo.cache
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.CrudBasico.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.build.CrudBasico.props
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrudBasico.props
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrudBasico.props
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.build.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.development.json
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\scopedcss\bundle\CrudBasico.styles.css
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.CopyComplete
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\refint\CrudBasico.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.pdb
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.genruntimeconfig.cache
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\ref\CrudBasico.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\MessagePack.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Build.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Common.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\appsettings.Development.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\appsettings.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.exe
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.deps.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.runtimeconfig.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\CrudBasico.pdb
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Humanizer.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\MessagePack.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Build.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Common.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.AssemblyReference.cache
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.GeneratedMSBuildEditorConfig.editorconfig
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.AssemblyInfoInputs.cache
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.AssemblyInfo.cs
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.CoreCompileInputs.cache
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.MvcApplicationPartsAssemblyInfo.cs
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.MvcApplicationPartsAssemblyInfo.cache
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.CrudBasico.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.build.CrudBasico.props
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrudBasico.props
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrudBasico.props
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.build.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\staticwebassets.development.json
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\scopedcss\bundle\CrudBasico.styles.css
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.csproj.CopyComplete
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\refint\CrudBasico.dll
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.pdb
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\CrudBasico.genruntimeconfig.cache
+D:\IacTec FASE 2\IATEC DESAFIO\pruebas\CrudBasico\CrudBasico\obj\Debug\net6.0\ref\CrudBasico.dll
